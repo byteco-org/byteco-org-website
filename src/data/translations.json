@@ -1,0 +1,46 @@
+{
+  "en": {
+    "version": 2.4,
+    "language": "English"
+  },
+  "de": {
+    "version": 1.1,
+    "language": "Deutsch"
+  },
+  "es": {
+    "version": 2.0,
+    "language": "Español"
+  },
+  "fr": {
+    "version": 1.1,
+    "language": "Français"
+  },
+  "it": {
+    "version": 1.1,
+    "language": "Italiano"
+  },
+  "ja": {
+    "version": 1.1,
+    "language": "日本語"
+  },
+  "lt": {
+    "version": 1.1,
+    "language": "Lietuvis"
+  },
+  "pt": {
+    "version": 1.0,
+    "language": "Português"
+  },
+  "pt-br": {
+    "version": 1.1,
+    "language": "Português"
+  },
+  "zh": {
+    "version": 1.1,
+    "language": "简体中文"
+  },
+  "zh-tw": {
+    "version": 1.1,
+    "language": "繁體中文"
+  }
+}

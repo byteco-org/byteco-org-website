@@ -1,0 +1,176 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ExodusActual",
+      "name": "ExodusActual",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56446532?v=4",
+      "profile": "https://github.com/ExodusActual",
+      "contributions": [
+        "translation"
+      ]
+
+    },
+   
+    {
+      "login": "JesseAbram",
+      "name": "JesseAbram",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33698952?v=4",
+      "profile": "https://github.com/JesseAbram",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Lililashka",
+      "name": "Lililashka",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28689401?v=4",
+      "profile": "http://impermanence.co",
+      "contributions": [
+        "design",
+        "bug"
+      ]
+    },
+    {
+      "login": "vrde",
+      "name": "vrde",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/134680?v=4",
+      "profile": "https://github.com/vrde",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "RichardMcSorley",
+      "name": "Richard McSorley",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6407008?v=4",
+      "profile": "https://github.com/RichardMcSorley",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ajsantander",
+      "name": "Alejandro Santander",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/550409?v=4",
+      "profile": "http://ajsantander.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "carver",
+      "name": "Jason Carver",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/205327?v=4",
+      "profile": "https://github.com/carver",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "chaitanyapotti",
+      "name": "Chaitanya Potti",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1688380?v=4",
+      "profile": "https://github.com/chaitanyapotti",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "chriseth",
+      "name": "chriseth",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9073706?v=4",
+      "profile": "https://github.com/chriseth",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "craigwilliams84",
+      "name": "Craig Williams",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11519649?v=4",
+      "profile": "https://github.com/craigwilliams84",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "damianrusinek",
+      "name": "Damian Rusinek",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3885749?v=4",
+      "profile": "https://github.com/damianrusinek",
+      "contributions": [
+        "content"
+      ]
+    },
+ 
+    {
+      "login": "Dadybayo",
+      "name": "Dan Dadybaev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33674013?v=4",
+      "profile": "https://github.com/Dadybayo",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "finleyexp",
+      "name": "Finley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18469214?v=4",
+      "profile": "https://www.pir8aye.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "nobd",
+      "name": "nobd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51967351?v=4",
+      "profile": "https://github.com/nobd",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AlexSSD7",
+      "name": "Alexander Sadovskyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43043344?v=4",
+      "profile": "https://github.com/AlexSSD7",
+      "contributions": [
+        "content"
+      ]
+    },
+
+    {
+      "login": "erikvdp",
+      "name": "Erik Vandeputte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203481?v=4",
+      "profile": "https://github.com/erikvdp",
+      "contributions": [
+        "content",
+        "bug"
+      ]
+    },
+    {
+      "login": "tmlee",
+      "name": "TM Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110264?v=4",
+      "profile": "https://www.coingecko.com",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "byteco-org-website",
+  "projectOwner": "byteco",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
